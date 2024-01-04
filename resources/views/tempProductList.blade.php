@@ -55,6 +55,7 @@
                                 $rate_id = "rate_$tempData->product_id";
                                 $unit_id = "unit_$tempData->product_id";
                                 $pro_id = "pro_$tempData->product_id";
+                                $msg="this is feature product";
                             ?>
                             <tr>
                                 <td>
